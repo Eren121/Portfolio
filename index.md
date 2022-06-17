@@ -10,7 +10,7 @@
 
 ## Seam Carving
 
-<video controls>
+<video controls class="seam-carving">
     <source src="assets/seam_carving.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
