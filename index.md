@@ -8,6 +8,15 @@
 </video>
 - JIT compiled CUDA in Python
 
+## Seam Carving
+
+<video controls>
+    <source src="assets/seam_carving.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+- Rescaling algorithm; using OpenCL and Python
+
 ## Ray traced point cloud renderer
 
 ![](assets/optix_points_cloud.png)
