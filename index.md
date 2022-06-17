@@ -9,17 +9,21 @@
 
 ![](assets/optix_points_cloud.png)
 
-
-
 # OpenGL Demo
 
 ![](assets/gl_demo.png)
 
 # Space Invaders
 
-![](assets/space_invaders.mp4)
+<video controls>
+    <source src="assets/space_invaders.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
 # Tilemap renderer
 
-![](assets/tilemap_renderer.mp4)
+<video controls>
+    <source src="assets/tilemap_renderer.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
