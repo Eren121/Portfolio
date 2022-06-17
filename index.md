@@ -4,6 +4,7 @@
     <source src="assets/auto_cropping.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
+
 - JIT compiled CUDA in Python
 
 # Seam Carving
