@@ -13,7 +13,13 @@
 
 ## OpenGL Demo
 
+### Demo
+
 ![](assets/gl_demo.png)
+
+### Mirror
+
+![](assets/gl_mirror.png)
 
 ## Space Invaders
 
