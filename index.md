@@ -11,7 +11,7 @@
 
 ![](assets/optix_points_cloud.png)
 
-## OpenGL Demo
+## OpenGL
 
 ### Demo
 
