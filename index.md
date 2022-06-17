@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Smart video cropping
 
 <video controls>
