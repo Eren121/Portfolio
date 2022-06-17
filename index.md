@@ -1,12 +1,13 @@
 # Smart video cropping
 
-![](assets/auto_cropping.mp4)
-
+<video controls>
+    <source src="assets/auto_cropping.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+  
 # Ray traced point cloud renderer
 
 ![](assets/optix_points_cloud.png)
-
-
 
 # OpenGL Demo
 
@@ -14,9 +15,15 @@
 
 # Space Invaders
 
-![](assets/space_invaders.mp4)
+<video controls>
+    <source src="assets/space_invaders.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
 # Tilemap renderer
 
-![](assets/tilemap_renderer.mp4)
+<video controls>
+    <source src="assets/tilemap_renderer.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 
