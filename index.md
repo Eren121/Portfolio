@@ -1,4 +1,4 @@
-## Smart video cropping
+# Smart video cropping
 
 <video controls>
     <source src="assets/auto_cropping.mp4" type="video/mp4">
@@ -6,7 +6,7 @@
 </video>
 - JIT compiled CUDA in Python
 
-## Seam Carving
+# Seam Carving
 
 <video controls class="seam-carving">
     <source src="assets/seam_carving.mp4" type="video/mp4">
@@ -15,32 +15,32 @@
 
 - Rescaling algorithm; using OpenCL and Python
 
-## Ray traced point cloud renderer
+# Ray traced point cloud renderer
 
 ![](assets/optix_points_cloud.png)
 
 - OptiX and SSAA
 
-## OpenGL
+# OpenGL
 
-### Demo
+## Demo
 
 ![](assets/gl_demo.png)
 
 - Lighting (Bloom, HDR, Spotlights, Skybox...)
 - OBJ loading
 
-### Mirror
+## Mirror
 
 ![](assets/gl_mirror.png)
 
 - "Reflection matrix" by axis and normal
 
-## Outline algorithm
+# Outline algorithm
 
 ![](assets/outline_2D.png)
 
-## Deterministic Kinematic
+# Deterministic Kinematic
 
 <video controls>
     <source src="assets/rts_kinematic.mp4" type="video/mp4">
@@ -49,7 +49,7 @@
 - Implicit Euler; SAT theorem; Fixed-size partition; deterministic 16.16 fixed point; ECS
 - Networked; Command-based server
 
-## Space Invaders
+# Space Invaders
 
 <video controls>
     <source src="assets/space_invaders.mp4" type="video/mp4">
@@ -57,7 +57,7 @@
 </video>
 - C++; Box2D; OpenGL; Low-level font rendering with Freetype
 
-## Tilemap renderer
+# Tilemap renderer
 
 <video controls>
     <source src="assets/tilemap_renderer.mp4" type="video/mp4">
