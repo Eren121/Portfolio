@@ -21,6 +21,13 @@
 
 ![](assets/gl_mirror.png)
 
+## Deterministic Kinematic
+
+<video controls>
+    <source src="assets/rts_kinematic.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 ## Space Invaders
 
 <video controls>
