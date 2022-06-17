@@ -6,10 +6,13 @@
     <source src="assets/auto_cropping.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
-  
+- JIT compiled CUDA in Python
+
 ## Ray traced point cloud renderer
 
 ![](assets/optix_points_cloud.png)
+
+- OptiX and SSAA
 
 ## OpenGL
 
@@ -17,9 +20,18 @@
 
 ![](assets/gl_demo.png)
 
+- Lighting (Bloom, HDR, Spotlights, Skybox...)
+- OBJ loading
+
 ### Mirror
 
 ![](assets/gl_mirror.png)
+
+- "Reflection matrix" by axis and normal
+
+## Outline algorithm
+
+![](assets/outline_2D.png)
 
 ## Deterministic Kinematic
 
@@ -27,6 +39,8 @@
     <source src="assets/rts_kinematic.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
+- Implicit Euler; SAT theorem; Fixed-size partition; deterministic 16.16 fixed point; ECS
+- Networked; Command-based server
 
 ## Space Invaders
 
@@ -34,6 +48,7 @@
     <source src="assets/space_invaders.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
+- C++; Box2D; OpenGL; Low-level font rendering with Freetype
 
 ## Tilemap renderer
 
@@ -41,4 +56,4 @@
     <source src="assets/tilemap_renderer.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
-
+- C++; SFML
