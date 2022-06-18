@@ -1,6 +1,6 @@
 # Portfolio
 
-# Smart video cropping
+# Auto video cropping
 
 <video controls>
     <source src="assets/auto_cropping.mp4" type="video/mp4">
@@ -8,7 +8,8 @@
 </video>
 
 - JIT compiled CUDA in Python
-
+- 2D, not 3D but adaptable for better results (2D+T)
+- 
 # Seam Carving
 
 <video controls class="seam-carving">
