@@ -9,7 +9,7 @@
 
 - JIT compiled CUDA in Python
 - 2D, not 3D but adaptable for better results (2D+T)
-- 
+
 # Seam Carving
 
 <video controls class="seam-carving">
